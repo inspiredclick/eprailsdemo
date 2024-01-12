@@ -1,0 +1,3 @@
+web: env bin/rails server
+js: yarn watch:build
+css: yarn watch:css
